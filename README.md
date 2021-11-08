@@ -3,7 +3,7 @@ this repo consists of various React Projects.
 ## Types of Projects
 * UI designs 
 * Basic utility apps/ websites
-* * Feature specific websites
+* Feature specific websites
 
 #### UI designs 
 * Project 1 : Food Ninja : Tailwind CSS
